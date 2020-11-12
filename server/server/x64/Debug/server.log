@@ -1,0 +1,16 @@
+﻿  server.c
+C:\Users\Admin\Desktop\laba\server\server\server.c(109,14): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Admin\Desktop\laba\server\server\server.c(187,20): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "SOCKET"
+C:\Users\Admin\Desktop\laba\server\server\server.c(187,20): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\Admin\Desktop\laba\server\server\server.c(187,20): message : рекомендуется использовать "%Id" в строке форматирования
+C:\Users\Admin\Desktop\laba\server\server\server.c(187,20): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\Admin\Desktop\laba\server\server\server.c(35,10): warning C4101: uname: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\laba\server\server\server.c(36,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\laba\server\server\server.c(35,21): warning C4101: pass: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\laba\server\server\server.c(402,46): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\laba\server\server\server.c(413,46): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\laba\server\server\server.c(425,46): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\laba\server\server\server.c(501,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Admin\Desktop\laba\server\server\server.c(495,9): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\laba\server\server\server.c(429): warning C4715: callHash: значение возвращается не при всех путях выполнения
+  server.vcxproj -> C:\Users\Admin\Desktop\laba\server\x64\Debug\server.exe

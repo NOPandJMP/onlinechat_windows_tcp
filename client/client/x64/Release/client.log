@@ -1,0 +1,17 @@
+﻿  client.c
+C:\Users\Admin\Desktop\laba\client\client\client.c(51,14): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Admin\Desktop\laba\client\client\client.c(177,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Admin\Desktop\laba\client\client\client.c(224,47): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\laba\client\client\client.c(241,47): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\laba\client\client\client.c(321,47): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\laba\client\client\client.c(269,9): warning C4101: len: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\laba\client\client\client.c(271,9): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\laba\client\client\client.c(351,50): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\laba\client\client\client.c(408,50): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\laba\client\client\client.c(426,23): warning C4101: i: неиспользованная локальная переменная
+  Создание кода
+  17 of 17 functions (100.0%) were compiled.
+    13 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  client.vcxproj -> C:\Users\Admin\Desktop\laba\client\x64\Release\client.exe
